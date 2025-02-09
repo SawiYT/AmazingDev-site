@@ -13,8 +13,8 @@ AmazingDev Server Website is a dynamic web page designed for the AmazingDev Mine
 - Smooth Animations – Clean and modern UI with smooth transitions.
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="public/shop.png" style="width: 49%;" alt="Blog Szkolny">
-    <img src="public/promo.png" style="width: 45%;" alt="Blog Szkolny">
+    <img src="public/shop.png" style="width: 50%;" alt="Blog Szkolny">
+    <img src="public/promo.png" style="width: 40%;" alt="Blog Szkolny">
 </div>
 
 

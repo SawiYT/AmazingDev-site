@@ -14,7 +14,7 @@ AmazingDev Server Website is a dynamic web page designed for the AmazingDev Mine
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="public/shop.png" style="width: 50%;" alt="Blog Szkolny">
-    <img src="public/promo.png" style="width: 39%;" alt="Blog Szkolny">
+    <img src="public/promo.png" style="width: 38%;" alt="Blog Szkolny">
 </div>
 
 
